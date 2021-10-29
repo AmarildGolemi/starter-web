@@ -3,6 +3,7 @@
 
 # TEAM
 
+Amarild Golemi - expert -
     <name> -- <role> -- <twitter>
 
 # THANKS
